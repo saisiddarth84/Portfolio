@@ -6,7 +6,6 @@ import "./index.css";
 import About from "./About";
 import Project from "./Project";
 import Skill from "./Skill";
-import Experience from "./Experience";
 import Contact from "./Contact";
 
 import ReactGA from "react-ga4";
@@ -53,10 +52,6 @@ const appRouter = createBrowserRouter([
       {
         path: "/skills",
         element: <Skill />,
-      },
-      {
-        path: "/journey",
-        element: <Experience />,
       },
       {
         path: "/contact",
