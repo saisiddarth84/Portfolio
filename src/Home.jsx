@@ -28,7 +28,7 @@ const Home = () => {
       <nav className="nav absolute top-10 right-40 z-[3] font-medium ">
         <button>
           <a
-            href="https://drive.google.com/file/d/1srdoQwXALuYzqyUJzZBUmlKtVAwg38XS/view"
+            href="https://drive.google.com/file/d/1yaRZszT-Il-RB76M21Vr__Bp31dJ4P-P/view?usp=drivesdk"
             target="_blank"
             rel="noreferrer"
             className="flex gap-2 justify-center items-center w-full btn-primary bg-white px-4 py-2 rounded-lg hover:bg-black/90 hover:text-white duration-500"
